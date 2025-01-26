@@ -2,7 +2,7 @@
 
 <img src="https://github.com/Event-AHU/ChatPlasma/blob/main/NFlogo.jpg" width="300">
 
-**[arXiv:] ChatPlasma: Harnessing Large Language Models for Science Communication in Nuclear Fusion** 
+**ChatPlasma: Harnessing Large Language Models for Science Communication in Nuclear Fusion** 
 
 ------
 

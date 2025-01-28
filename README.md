@@ -44,5 +44,15 @@ Watch the demo video below:
 # :dart: Citation 
 
 
+## Star History
 
+## Star History
+
+<a href="https://star-history.com/#Event-AHU/ChatPlasma&Date">
+ <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=Event-AHU/ChatPlasma&type=Date&theme=dark" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=Event-AHU/ChatPlasma&type=Date" />
+   <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=Event-AHU/ChatPlasma&type=Date" />
+ </picture>
+</a>
 

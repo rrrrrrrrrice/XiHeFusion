@@ -30,7 +30,19 @@ Watch the demo video below:
   <img src="https://github.com/Event-AHU/ChatPlasma/blob/main/ChatPlasma_Demo_1080P.firstIMG.jpg" alt="Watch the video" width="500">
 </a>
 
+
+
 ## Model Deployment 
+
+
+### Environment Setting  
+
+### Dataset Processing 
+<img src="https://github.com/Event-AHU/ChatPlasma/blob/main/figures/data_preprocess.jpg" alt="Watch the video" width="600"> 
+
+### Optimization Curve 
+<img src="https://github.com/Event-AHU/ChatPlasma/blob/main/figures/loss_curve.jpg" alt="Watch the video" width="500"> 
+
 
 
 

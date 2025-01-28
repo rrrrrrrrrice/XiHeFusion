@@ -20,7 +20,7 @@ Nuclear fusion is one of the most promising ways for humans to obtain infinite e
 
 
 ## Framework 
-<img src="https://github.com/Event-AHU/ChatPlasma/blob/main/figures/chatplasma_framework.jpg" alt="Watch the video" width="600">
+<img src="https://github.com/Event-AHU/ChatPlasma/blob/main/figures/chatplasma_framework.jpg" alt="Watch the video" width="600" align="center">
 
 
 ## Demo Video 

@@ -47,6 +47,8 @@ Watch the demo video below:
 
 
 ## Assessment for Nuclear Fusion 
+
+Please check the file [[**questions_for_ChatPlasma.docx**](https://github.com/Event-AHU/ChatPlasma/blob/main/questions_for_ChatPlasma.docx)] for the assessment. 
 <img src="https://github.com/Event-AHU/ChatPlasma/blob/main/figures/NFAssessment.jpg" alt="Watch the video" width="800">
 
 

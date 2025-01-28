@@ -35,7 +35,7 @@ Watch the demo video below:
 
 
 ## Assessment for Nuclear Fusion 
-<img src="https://github.com/Event-AHU/ChatPlasma/blob/main/figures/NFAssessment.jpg" alt="Watch the video" width="500">
+<img src="https://github.com/Event-AHU/ChatPlasma/blob/main/figures/NFAssessment.jpg" alt="Watch the video" width="800">
 
 
 ## Experimental Results 

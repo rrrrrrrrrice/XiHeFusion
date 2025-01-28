@@ -22,6 +22,13 @@
 
 
 
+# Demo Video 
+Watch the demo video below:
+
+[![Watch the video](https://youtu.be/0qq118cgzXk?si=2FphVeT2onN19QkL)](https://youtu.be/0qq118cgzXk?si=2FphVeT2onN19QkL)
+
+
+
 # :dart: Model Deployment 
 
 

@@ -12,10 +12,11 @@
 
 # :dart: News 
 
+* [2025.01.28] ChatPlasma is released on GitHub 
 
 
 ## Abstract 
-
+Nuclear fusion is one of the most promising ways for humans to obtain infinite energy. Currently, with the rapid development of artificial intelligence, the mission of nuclear fusion has also entered a critical period of its development. How to let more people to understand nuclear fusion and join in its research is one of the effective means to accelerate the implementation of fusion. This paper proposes the first large model in the field of nuclear fusion, ChatPlasma, which is obtained through supervised fine-tuning based on the open-source large model Qwen2.5-14B. We have collected multi-source knowledge about nuclear fusion tasks to support the training of this model, including the common crawl, eBooks, arXiv, dissertation, etc. After the model has mastered the knowledge of the nuclear fusion field, we further used the chain of thought to enhance its logical reasoning ability, making ChatPlasma able to provide more accurate and logical answers. In addition, we propose a test questionnaire containing 180+ questions to assess the conversational ability of this science popularization large model. Extensive experimental results show that our nuclear fusion dialogue model, ChatPlasma, can perform well in answering science popularization knowledge. 
 
 
 ## Framework 
@@ -31,6 +32,10 @@ Watch the demo video below:
 
 ## Model Deployment 
 
+
+
+## Assessment for Nuclear Fusion 
+<img src="https://github.com/Event-AHU/ChatPlasma/blob/main/figures/NFAssessment.jpg" alt="Watch the video" width="500">
 
 
 ## Experimental Results 

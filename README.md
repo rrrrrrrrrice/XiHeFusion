@@ -25,7 +25,7 @@
 # Demo Video 
 Watch the demo video below:
 
-[![Watch the video](https://youtu.be/0qq118cgzXk?si=2FphVeT2onN19QkL)](https://youtu.be/0qq118cgzXk?si=2FphVeT2onN19QkL)
+[![Watch the video](https://github.com/Event-AHU/ChatPlasma/blob/main/ChatPlasma_Demo_1080P.firstIMG.jpg)](https://youtu.be/0qq118cgzXk?si=2FphVeT2onN19QkL)
 
 
 

@@ -12,6 +12,8 @@
 
 # :dart: News 
 
+* [2025.02.06] Demo video for ChatPlasma is available on [Youtube](https://youtu.be/wlq2cBjUO7c?si=CvRt-OX5KYhctnvU)
+
 * [2025.01.28] ChatPlasma is released on GitHub 
 
 
@@ -26,7 +28,7 @@ Nuclear fusion is one of the most promising ways for humans to obtain infinite e
 ## Demo Video 
 Watch the demo video below:
 
-<a href="https://youtu.be/0qq118cgzXk?si=2FphVeT2onN19QkL">
+<a href="https://youtu.be/wlq2cBjUO7c?si=CvRt-OX5KYhctnvU">
   <img src="https://github.com/Event-AHU/ChatPlasma/blob/main/ChatPlasma_Demo_1080P.firstIMG.jpg" alt="Watch the video" width="500">
 </a>
 

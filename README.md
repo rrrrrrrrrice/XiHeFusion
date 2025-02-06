@@ -14,7 +14,7 @@
 
 * [2025.02.06] Demo video for ChatPlasma is available on [Youtube](https://youtu.be/wlq2cBjUO7c?si=CvRt-OX5KYhctnvU), [Bilibili](https://www.bilibili.com/video/BV1JUNnebEep/?share_source=copy_web&vd_source=bd3d199c910fc6b8eadfc40413435b61) 
 
-* [2025.01.28] ChatPlasma is released on GitHub 
+* [2025.01.28] ChatPlasma is released on [GitHub](https://github.com/Event-AHU/ChatPlasma) 
 
 
 ## Abstract 

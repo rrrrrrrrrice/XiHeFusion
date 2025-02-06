@@ -33,6 +33,11 @@ Watch the demo video below:
 </a>
 
 
+- **Youtube**：[https://youtu.be/wlq2cBjUO7c?si=AhbliaheBrqcWdy5](https://youtu.be/wlq2cBjUO7c?si=AhbliaheBrqcWdy5)  
+
+- **Bilibili**：[ChatPlasma_demo_1080P](https://www.bilibili.com/video/BV1JUNnebEep/?share_source=copy_web&vd_source=bd3d199c910fc6b8eadfc40413435b61) 
+
+
 
 ## Model Deployment 
 

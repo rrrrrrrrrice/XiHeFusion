@@ -22,7 +22,7 @@ Nuclear fusion is one of the most promising ways for humans to obtain infinite e
 
 
 ## Framework 
-<img src="https://github.com/Event-AHU/XiHeFusion/blob/main/figures/XiHeFusion_framework.jpg" alt="Watch the video" width="600" align="center">
+<img src="https://github.com/Event-AHU/XiHeFusion/figures/XiHeFusion_framework.jpg" alt="Watch the video" width="600" align="center">
 
 
 ## Demo Video 

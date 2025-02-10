@@ -22,14 +22,14 @@ Nuclear fusion is one of the most promising ways for humans to obtain infinite e
 
 
 ## Framework 
-<img src="https://github.com/Event-AHU/XiHeFusion/figures/XiHeFusion_framework.jpg" alt="Watch the video" width="600" align="center">
+<img src="https://github.com/Event-AHU/XiHeFusion/blob/main/figures/XiHeFusion_framework.jpg" alt="Watch the video" width="600" align="center">
 
 
 ## Demo Video 
 Watch the demo video below:
 
 <a href="https://youtu.be/5ZCDq0DjklA?si=6drd30YUtTvJEf9r">
-  <img src="https://github.com/Event-AHU/XiHeFusion/blob/main/XiHeFusion_demo.mp4_20250210_215224.617.jpg" alt="Watch the video" width="500">
+  <img src="https://github.com/Event-AHU/XiHeFusion/blob/main/figures/XiHeFusion_demo.mp4_20250210_215224.617.jpg" alt="Watch the video" width="500">
 </a>
 
 

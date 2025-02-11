@@ -2,7 +2,8 @@
 
 <img src="https://github.com/Event-AHU/XiHeFusion/blob/main/NFlogo.jpg" width="300">
 
-**XiHeFusion: Harnessing Large Language Models for Science Communication in Nuclear Fusion** 
+**XiHeFusion: Harnessing Large Language Models for Science Communication in Nuclear Fusion, Xiao Wang, Qingquan Yang, Fuling Wang, Qiang Chen, Wentao Wu, Yu Jin, Jingtao Jiang, Liye Jin, Bo Jiang, Dengdi Sun, Wanli Lv, Meiwen Chen, Zehua Chen, Guosheng Xu, Jin Tang
+arXiv Pre-print arXiv:2502.05615** 
 
 ------
 

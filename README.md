@@ -72,6 +72,18 @@ Please check the file [[**questions_for_XiHeFusion.docx**](https://github.com/Ev
 
 
 ## Citation 
+```
+@misc{wang2025xihefusion,
+ title={XiHeFusion: Harnessing Large Language Models for Science Communication in Nuclear Fusion}, 
+ author={Xiao Wang and Qingquan Yang and Fuling Wang and Qiang Chen and Wentao Wu and Yu Jin and Jingtao Jiang and Liye Jin and Bo Jiang and Dengdi Sun and Wanli Lv and Meiwen Chen and Zehua Chen and Guosheng Xu and Jin Tang},
+ year={2025},
+ eprint={2502.05615},
+ archivePrefix={arXiv},
+ primaryClass={cs.CV},
+ url={https://arxiv.org/abs/2502.05615}, 
+}
+```
+
 
 
 ## Star History

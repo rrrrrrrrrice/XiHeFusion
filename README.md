@@ -13,7 +13,7 @@ arXiv Pre-print arXiv:2502.05615 [[Paper](https://arxiv.org/abs/2502.05615)]**
 
 # :dart: News 
 
-* [2025.02.06] Demo video for XiHeFusion is available on [Youtube](https://youtu.be/LqV61LrvGKg?si=nu-PMBL9ZtiLJFZT), [Bilibili](https://www.bilibili.com/video/BV1c2Nae8E5A/?share_source=copy_web&vd_source=bd3d199c910fc6b8eadfc40413435b61) 
+* [2025.02.06] Demo video for XiHeFusion is available on [**Youtube**](https://youtu.be/LqV61LrvGKg?si=nu-PMBL9ZtiLJFZT), [**Bilibili**](https://www.bilibili.com/video/BV1zuKKeXEw8/?share_source=copy_web&vd_source=bd3d199c910fc6b8eadfc40413435b61) 
 
 * [2025.01.28] XiHeFusion is released on [GitHub](https://github.com/Event-AHU/XiHeFusion) 
 
@@ -32,7 +32,7 @@ Watch the demo video below:
 
 - **Youtube**：[https://youtu.be/LqV61LrvGKg?si=nu-PMBL9ZtiLJFZT](https://youtu.be/LqV61LrvGKg?si=nu-PMBL9ZtiLJFZT)  
 
-- **Bilibili**：[XiHeFusion_demo_1080P](https://www.bilibili.com/video/BV1c2Nae8E5A/?share_source=copy_web&vd_source=bd3d199c910fc6b8eadfc40413435b61) 
+- **Bilibili**：[XiHeFusion_Demo](https://www.bilibili.com/video/BV1zuKKeXEw8/?share_source=copy_web&vd_source=bd3d199c910fc6b8eadfc40413435b61) 
 
 
 
